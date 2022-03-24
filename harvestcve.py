@@ -1,6 +1,5 @@
 import requests
 import json
-import pandas as pd
 
 
 cve_list_input = ['CVE-2021-26855', 'CVE-2021-27078']
